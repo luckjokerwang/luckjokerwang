@@ -28,8 +28,7 @@
 $ fastfetch
 ```
 <!-- 终端GIF + neofetch信息 -->
-<img align="right" src="fastfetch.gif" width="300"/>
-
+<img src="fastfetch.gif" width="100%"/>
 
 
 ```yaml
@@ -46,22 +45,6 @@ Lang    : Python / TypeScript
 
 ---
 
-<div align="center">
-
-<!-- ASCII代码框 -->
-```
- ╭──────────────────────────────────────╮
- │                                      │
- │   fn main() {                        │
- │       loop {                         │
- │           learn();                   │
- │           build();                   │
- │           ship();                    │
- │       }                              │
- │   }                                  │
- │                                      │
- ╰──────────────────────────────────────╯
-```
 
 <br/>
 
@@ -73,7 +56,7 @@ Lang    : Python / TypeScript
 <br/>
 
 <!-- 活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MCB-SMART-BOY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckjokerwang&custom_title=Wzy%27s%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 
 <br/>
 
