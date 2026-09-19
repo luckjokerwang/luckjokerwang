@@ -101,15 +101,16 @@ Languages  : Python / TypeScript / C++ / Go (Learning)
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/luckjokerwang/smart_gallery">smart_gallery</a></h4>
-      <p><b>Linux 生产环境 Web 项目部署与运维实践</b></p>
+      <h4>📅 <a href="https://github.com/luckjokerwang/dms-dankcalendar">dms-dankcalendar</a></h4>
+      <p><b>DMS 高效日程小组件 (DankCalendar 性能与交互重构版)</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Server-Linux_LAMP-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/QML-Qt_Quick-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-DMS_Plugin-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Wayland-Desktop_Widget-58a6ff?style=flat-square"/>
       </p>
       <ul>
-        <li>独立在 Linux 下完成 Apache、MySQL、Python (Django) 的编译配置与全链路部署上线。</li>
-        <li>掌握基础服务器性能调优、网络配置与系统级故障排查。</li>
+        <li>因上游版本迭代缓慢自主 Fork 进行深度重构，实现即时日程倒计时胶囊与当日议程弹出交互。</li>
+        <li>优化交互点击模型与多账户数据同步刷新调度，大幅提升桌面端小组件的响应速度与体验。</li>
       </ul>
     </td>
   </tr>
